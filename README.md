@@ -14,5 +14,7 @@ Protecto que simula la parte que ve un cliente en una tienda de ropa.
 - Google maps
 - Uso de RecyclerView
 - Uso de SQlite
+
+
 ![image](https://user-images.githubusercontent.com/63041388/230591058-697bc998-c60c-49ec-9d37-255d6a725a67.png)
 
